@@ -1,0 +1,6 @@
+[submodule "event-proxy"]
+	path = event-proxy
+	url = git://github.com/Khaless/locateme-event-proxy.git
+[submodule "web-channel"]
+	path = web-channel
+	url = git://github.com/Khaless/locateme-web-channel.git
